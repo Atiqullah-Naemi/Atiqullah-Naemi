@@ -1,7 +1,8 @@
 
-<div align="center"> <img src="https://raw.githubusercontent.com/Atiqullah-Naemi/Atiqullah-Naemi/main/banner.png"/> </div>
- 💫 About Me:
-A passionate and innovative full stack developer based in Melbourne
+<div align="center"> <img src="https://raw.githubusercontent.com/Atiqullah-Naemi/Atiqullah-Naemi/main/newbanner.png"/> </div>
+
+ ## 👋 💫 About Me
+A passionate and innovative full stack developer based in Melbourne, with over 8+ years of experience. I have Worked for startups, enterprise products, and digital agencies.
 
 
 ## 🌐 Socials:
